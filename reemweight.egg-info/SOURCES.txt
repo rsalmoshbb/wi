@@ -2,6 +2,9 @@ LICENCE.txt
 README.md
 setup.py
 reemweight/__init__.py
+reemweight/data_examiner.py
+reemweight/linear.py
+reemweight/nonLinear.py
 reemweight.egg-info/PKG-INFO
 reemweight.egg-info/SOURCES.txt
 reemweight.egg-info/dependency_links.txt
